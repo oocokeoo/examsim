@@ -4,7 +4,7 @@ include 'core/header.php';
 ?>
 <div class="container">
     <div class="page-header">
-        <h1>MMM</h1>
+        <h1>MMM10</h1>
     </div>
     <blockquote>
         <p>M server.</p>
