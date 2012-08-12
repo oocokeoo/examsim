@@ -4,10 +4,10 @@ include 'core/header.php';
 ?>
 <div class="container">
     <div class="page-header">
-        <h1>examsim PDF uploader test xxxxxxxteststasdf</h1>
+        <h1>examsim PDF uploader testsssssssss yy</h1>
     </div>
     <blockquote>
-        <p>สำหรับอัพโหลด pdf ขึ้น server.</p>
+        <p>เธชเธณเธซเธฃเธฑเธ�เธญเธฑเธ�เน�เธซเธฅเธ” pdf เธ�เธถเน�เธ� server.</p>
     </blockquote>
     <br>
     <!-- The file upload form used as target for the file upload widget -->
@@ -53,7 +53,7 @@ include 'core/header.php';
     </form>
     <br>
     <div class="well">
-        <h3>ข้อควรระวัง</h3>
+        <h3>เธ�เน�เธญเธ�เธงเธฃเธฃเธฐเธงเธฑเธ�</h3>
         <ul>
             <li>The maximum file size for uploads in this demo is <strong>5 MB</strong> (default file size is unlimited).</li>
             <li>Only image files (<strong>JPG, GIF, PNG</strong>) are allowed in this demo (by default there is no file type restriction).</li>
