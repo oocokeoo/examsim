@@ -7,7 +7,7 @@ include 'core/header.php';
         <h1>MMM</h1>
     </div>
     <blockquote>
-        <p>เน€เธ�เธ�เน€เธ�เธ“เน€เธ�เธ�เน€เธ�เธ�เน€เธ�เธ‘เน€เธ�๏ฟฝเน€เธ�เธ�เน€เธ�เธ‘เน€เธ�๏ฟฝเน€เธ�๏ฟฝเน€เธ�เธ�เน€เธ�เธ…เน€เธ�โ€� pdf เน€เธ�๏ฟฝเน€เธ�เธ–เน€เธ�๏ฟฝเน€เธ�๏ฟฝ server.</p>
+        <p>M server.</p>
     </blockquote>
     <br>
     <!-- The file upload form used as target for the file upload widget -->
